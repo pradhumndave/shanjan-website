@@ -1,0 +1,260 @@
+		.body{
+			background-color: #000000;
+		}
+		.outer{
+			width: 1000px;
+			height: 1000px;
+			margin-top: 0px;
+			margin:auto;
+		}
+		.header{
+			width: 1001px;
+			height: 186px;
+			background-image: url('./images/headerbg.jpg');
+		
+		}
+		.float{
+			float: left;
+		}
+		
+		.header-dimension{width: 306px;
+			height: 176px;
+			border: 0px solid red;
+
+		}
+		.header-middle{
+			font-size: 20px;
+
+		}
+		.bcgrimg{
+			background-image: url('./images/topcontactbg.png');background-repeat: no-repeat;
+		}
+		.color{
+			color: white;
+		}
+		.font{
+			font-weight: lighter; 
+		}
+		.header-dimension1{
+			width: 
+		}
+		.margin{
+			background-image: url('./images/menubg.jpg');
+			background-repeat: repeat-x;
+			height: 46px;	
+			
+			
+		}
+		.margin1{
+			background-image: url('./images/menubackground.png');
+			height: 34px;
+			width: 127px;
+			margin-top:7px;
+			padding-top:10px;
+		}
+		.span{
+			margin-left:  20px; 
+		}
+		.margin1:hover{
+				background-image : url('./images/menuactive.png');
+		}
+		.span1{
+			margin-left: 20px;
+		}
+		.span2{
+			margin-left: 20px;
+		}
+		.span3{
+			margin-left: 20px;
+		}
+		.span4{
+			margin-left: 20px;
+		}
+		.span5{
+			margin-left: 65px;
+		}
+		.div{
+			background-image: url('./images/leftmenubg.png');
+			background-repeat: no-repeat;
+			height: 27px;
+			width: 213px;
+		}
+		.div1{
+			width: 213px;
+			height: 213px;
+			float: left;
+		}
+		.div2{
+			width: 720px;
+			height: 240px;
+			border:0px solid red;
+			margin-left: 25px;
+			margin-top:  17px; 		
+		}
+		.margin222{
+			margin-left: 15px;
+			margin-top: 15px;
+			float: left;
+		}
+		.border-radius{
+			border: 0px solid white;
+			border-radius: 50px 15px;
+		}
+		.border-radius1{
+			border-radius: 23px;
+			border: 1px solid white;
+			width: 215px;
+			height: 176px;
+			background-image: url('./images/whybg.jpg');
+			margin-left: 18px;
+			margin-top: 10px;
+			float: left;
+		}
+		.www{
+			height: 272px;	
+		}
+		.span6{text-align:center;
+			padding: 13px 0px 0px 0px; 
+			
+		}
+		.align{
+			text-align:center;
+		}
+		.text-decoration{
+			text-decoration: underline;
+			text-decoration-color: #696969; 
+			text-decoration-color: #696969;
+		}
+		.padding123{
+			text-decoration: dotted dashed underline;
+			color: #0000A0;
+		}
+		.padding123:hover{
+			color: #0000FF;
+		}
+		.animations{
+			background-color: gradient(red,blue);
+		}
+		.yoyo123{
+			background-color: #EEE8AA;
+			width: 300px;
+			height: 195px;
+			float: left;
+			margin-top: 11px;
+			margin-left: 19px;
+		}
+		.gocorona{
+			padding-left: 28px;
+			padding-top: 7px;
+		}
+		.COVID-19{
+			padding-left: 18px;
+			padding-top: 7px;
+		}
+		.siuu{
+			background-image: url('./images/services.jpg');
+			width: 388px;
+			height: 195px;
+			float: left;
+			margin-left: 20px;
+			margin-top: 10px;
+		}
+		.GIPHY{
+			background-image: url('./images/menubg.jpg');
+			width: 998px;
+			height: 41px;
+			border-radius: 15px;
+			padding-top: 9px;
+		}
+		.YOYO1234{
+			width: 999px;
+			height: 200px;
+		}
+		.Gattu{
+			text-decoration:none;
+			color: #000000;
+		}
+		.Gattu:visited{
+			color: red;
+		}
+		.padding123{
+			padding-top: 10px;
+			padding-left: 25px;
+		}
+		.GATHIYA{
+			padding-right: 18px;
+		}
+		.padudo{
+			width: 745px;
+			height: 670px;
+			background-color: white;
+			float: left;
+			margin-left: 22px;
+			margin-top: 17px;
+		}
+		.marquee{
+			width: 999px;
+			height: 720px;
+		}
+		.Jingalala{
+			height: 253px;
+			width: 733px;
+			float: left;
+			background-color: white;
+			margin-left: 20px;
+			margin-top: 10px;
+		}
+		.disco{
+			width: 745px;
+			height: 699px;
+			float: left;
+			background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
+			margin-left: 13px;
+			margin-top: 17px;
+		}
+		.holiday{
+			width:744px; 
+			height:240px;
+		}
+		.img{
+			width:200px; 
+			height:160px;
+			float: left;
+			margin-left: 36px;
+			margin-top: 30px;
+		}
+		.dhanacharya{
+			width: 700px;
+			height: 280px;
+			background-color: white;
+			float: left;
+		}
+		.mistake{
+			width: 999px;
+			height: 760px;
+		}
+		.zoom{
+			transition: transform 0.1s;
+		}
+		.zoom:hover{
+			transform: scale(1.1);
+		}
+		.h123{
+
+		}
+		.h123:hover{
+			color: gold;
+			text-shadow: 2px 2px blue;
+		}
+		.byebye{
+			width: 700px;
+			height: 890px;
+			background-color: white;
+			float: left;
+			margin-left: 44px;
+			margin-top: 20px;
+		
+		}
+		.blahblah{
+			height: 940px;
+		}
